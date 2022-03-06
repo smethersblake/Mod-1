@@ -14,7 +14,26 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+header {
+    padding: 20px;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+header h1 {
+    color: #0072bb;
+}
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+header nav ul li {
+    display: inline;
+}
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
 .header h1 {
     display: inline-block;
     font-size: 48px;
