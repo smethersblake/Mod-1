@@ -7,26 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-header {
-    padding: 20px;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-header h1 {
-    color: #0072bb;
-}
-header nav {
-    float: right;
-    margin: 7px 0;
-}
-header nav ul li {
-    display: inline;
-}
-header nav ul li a {
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 22px;
-}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
